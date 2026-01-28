@@ -77,12 +77,6 @@ Jobs {
 }
 ```
 
----
-
-## 🛠️ Tech Stack Recommendations
-- **Language:** Node.js / Go / Python
-- **Database:** PostgreSQL (for state) & Redis (for distributed locking)
-- **Monitoring:** Prometheus & Grafana
 
 ---
 
@@ -93,5 +87,3 @@ Jobs {
 - **Maintenance:** Routine database cleanups and report generation.
 
 ---
-
-> *"I built a distributed task scheduler with time-based execution, retry handling, and locking to ensure jobs run exactly once even across multiple servers."*
